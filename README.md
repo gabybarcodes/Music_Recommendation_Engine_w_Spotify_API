@@ -6,3 +6,5 @@ Use the Spotify API to create a personalized music recommendation system. Analyz
 [collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
 
 
+Things to have in mind
+- The author of an API is entitled to copyright protection
