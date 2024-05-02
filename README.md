@@ -3,6 +3,6 @@ Use the Spotify API to create a personalized music recommendation system. Analyz
 
 [Link to Github licenses](https://choosealicense.com/licenses/)
 
-[collaborative working Youtube vid] (https://www.youtube.com/watch?v=k5D37W6h56o)
+[collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
 
 
