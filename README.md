@@ -5,10 +5,10 @@ Use the Spotify API to create a personalized music recommendation system. Analyz
 
 2) [Collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
 
-In case you have VS Code:        
-3) [Setup and use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=mR9jhYD3bnI)
+In case you have VS Code
+4) [Setup and use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=mR9jhYD3bnI)
 
-4) [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/)
+5) [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/)
 Spotipy is a safe lightweight Python library for the Spotify Web API.
 
 
