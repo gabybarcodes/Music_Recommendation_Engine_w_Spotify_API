@@ -1,20 +1,23 @@
 # Music-Recommendation-Engine-w-Spotify-API
 Use the Spotify API to create a personalized music recommendation system. Analyze user history, genre preference and collaborative filtering to suggest new tracks.
 
-[Link to Github licenses](https://choosealicense.com/licenses/)
+1) [Link to Github licenses](https://choosealicense.com/licenses/)
 
-[collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
+2) [collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
 
 In case you have VS Code:
-[Setup and use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=mR9jhYD3bnI)
+3) [Setup and use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=mR9jhYD3bnI)
 
-[Spotipy](https://spotipy.readthedocs.io/en/2.22.1/)
+4) [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/)
 Spotipy is a safe lightweight Python library for the Spotify Web API.
 
 
 Things to have in mind
-- The author of an API is entitled to copyright protection
-- Might be a good time to start learning and implementing JavaScript, we'll learn along the way
+- The author of an API is entitled to copyright protection.
+- Might be a good time to start learning and implementing JavaScript, we'll learn along the way.
 
-Maybe ayuda a entender la documentación [Wizardshot](https://www.wizardshot.com)
+5) [Wizardshot](https://www.wizardshot.com)
+Maybe ayuda a entender la documentación.
 
+6) [CodiumAI](https://www.codium.ai/about/)
+CodiumAI’s first tool is an IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
