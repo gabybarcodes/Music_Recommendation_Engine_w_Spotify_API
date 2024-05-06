@@ -15,3 +15,6 @@ Spotipy is a safe lightweight Python library for the Spotify Web API.
 Things to have in mind
 - The author of an API is entitled to copyright protection
 - Might be a good time to start learning and implementing JavaScript, we'll learn along the way
+
+Maybe ayuda a entender la documentación [Wizardshot](https://www.wizardshot.com)
+
