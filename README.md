@@ -3,7 +3,7 @@ Use the Spotify API to create a personalized music recommendation system. Analyz
 
 1) [Link to Github licenses](https://choosealicense.com/licenses/)
 
-2) [collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
+2) [Collaborative working Youtube vid](https://www.youtube.com/watch?v=k5D37W6h56o)
 
 In case you have VS Code:
 3) [Setup and use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=mR9jhYD3bnI)
