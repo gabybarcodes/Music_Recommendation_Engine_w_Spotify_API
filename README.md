@@ -21,3 +21,5 @@ Maybe ayuda a entender la documentación.
 
 6) [CodiumAI](https://www.codium.ai/about/)
 CodiumAI’s first tool is an IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
+
+7) [To get GitHub Student Plan](https://education.github.com/discount_requests/application?type=student)
